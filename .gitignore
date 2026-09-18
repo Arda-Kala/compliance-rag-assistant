@@ -1,0 +1,19 @@
+﻿# Sanal Ortam ve Bağımlılıklar
+venv/
+env/
+ENV/
+
+# Veritabanı ve Yerel Vektör Deposu
+*.db
+*.sqlite3
+
+# Python Önbellekleri
+__pycache__/
+*.py[cod]
+
+# Streamlit Kullanıcı Bilgileri
+.streamlit/credentials.toml
+
+# Yerel Test Çıktıları ve Raporlar
+Uyum_Raporu_*.md
+*.log

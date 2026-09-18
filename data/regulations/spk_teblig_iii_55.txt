@@ -1,0 +1,22 @@
+[KAYNAK: SPK Portföy Yönetimi Tebliği III-55.1]
+
+Madde 7: Portföy yönetim şirketleri, yönettikleri her portföy için yazılı bir yatırım politikası ve strateji belgesi hazırlamak zorundadır. Bu belge müşteriye sözleşme öncesinde sunulur ve imzalatılır.
+
+Madde 11: Portföy yönetiminde müşteri çıkarı her zaman önce gelir. Portföy yöneticisi kendi çıkarını veya ilişkili tarafların çıkarını müşteri aleyhine gözetemez. Çıkar çatışması durumları derhal kamuya açıklanır.
+
+Madde 19: Bireysel portföy yönetiminde müşteriye yapılacak performans raporlaması en az 3 ayda bir gerçekleştirilir. Rapor; dönem getirisi, portföy bileşimi, gerçekleştirilen işlemler ve ücretleri kapsamak zorundadır.
+
+Madde 23: Portföy yönetim şirketleri, bağlı oldukları grubun ihraç ettiği araçlara müşteri portföyünden yatırım yapabilmek için müşteriden önceden açık onay almak zorundadır. Bu işlemler piyasa fiyatları üzerinden gerçekleştirilir.
+
+Madde 28: Yönetilen portföylerde kaldıraç kullanımı ancak müşteriyle imzalanan sözleşmede açıkça düzenlenmiş olması ve müşterinin uygunluk profilinin buna elverişli olması halinde mümkündür.
+
+Madde 35: Portföy yönetim şirketi, yönettiği fonlara ilişkin yatırımcı bilgi formunu (YBF) ve fonun risk değerini her yıl güncellemek ve kamuya açıklamakla yükümlüdür. Risk değeri değiştiğinde yatırımcılar derhal bilgilendirilir.
+
+Madde 41: Portföy yönetimi ücretleri sözleşmede belirtilen azami sınırları aşamaz. Performans ücreti yalnızca belirlenen eşik getirinin üzerinde kazanılan kısım üzerinden ve sözleşmede yer alması koşuluyla alınabilir.
+
+| Portföy Türü | Azami Yönetim Ücreti (Yıllık) | Performans Ücreti Tavanı |
+|---|---|---|
+| Hisse Senedi Portföyü | %3.00 | %20 (Eşik üzeri) |
+| Sabit Getirili Portföy | %1.80 | %15 (Eşik üzeri) |
+| Karma Portföy | %2.40 | %18 (Eşik üzeri) |
+| Para Piyasası Portföyü | %1.00 | Yok |

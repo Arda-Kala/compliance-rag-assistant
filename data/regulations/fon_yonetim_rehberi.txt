@@ -1,0 +1,11 @@
+﻿[KAYNAK: Yatırım Fonları Yönetim Esasları Rehberi]
+Madde 12: Fon portföyünden yapılabilecek harcamalar ve yönetim ücreti tavanları aşağıdaki tabloda belirlenen azami oranları aşamaz.
+
+| Fon Türü | Azami Yıllık Yönetim Ücreti | Asgari Nakit Oranı |
+|---|---|---|
+| Hisse Senedi Yoğun Fon | %3.65 | %80 Hisse |
+| Para Piyasası Fonu | %1.50 | %10 Nakit/Ters Repo |
+| Serbest (Hedge) Fon | %4.00 | Serbest |
+| Borçlanma Araçları Fonu | %2.10 | %80 Borçlanma |
+
+Madde 18: Fon performans sunumlarında geçmiş getiriler gösterilirken "Geçmiş performans gelecek dönem performansı için gösterge olamaz" uyarısının asgari 10 punto büyüklüğünde ve ana metinle aynı kontrastta yer alması şarttır.
